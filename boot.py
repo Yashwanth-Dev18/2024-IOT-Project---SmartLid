@@ -1,8 +1,8 @@
 import network  # type: ignore
 import utime  # type: ignore
 
-ssid = 'Tele2_C55236'
-password = 'pcdec59w'
+ssid = 'Your_wifi_ssid'
+password = 'Your_wifi_password'
 
 wlan = network.WLAN(network.STA_IF)
 wlan.active(True)
