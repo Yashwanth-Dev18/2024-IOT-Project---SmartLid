@@ -6,7 +6,7 @@
 
 The Smart Lid IoT System is designed to automate the opening and closing of a lid using a servo motor, triggered by an ultrasonic sensor detecting movement. Implemented on a Raspberry Pi Pico W, the system collects data on lid usage, including the count of accesses and the distance of detected objects. This data is transmitted to the Ubidots IoT platform, where it is visualized through gauges and graphs, providing insightful analysis of usage patterns. The project integrates real-time data collection, automation, and IoT capabilities to enhance convenience and provide valuable usage metrics.
 
-The project might take approximately 2-4 weeks to complete, including setup, programming, testing, and data visualization.
+The project might take approximately 2 weeks to complete, including setup, programming, testing, and data visualization.
 
 # Objective
 
@@ -299,9 +299,9 @@ This chart shows the hourly aggregated information on the access. This is an ext
 Here are the final results...
 ![alt text](<Project Final Results.png>)
 
-![alt text](<WhatsApp Image 2024-06-30 at 11.25.06_1474d255.jpg>)
+![alt text](<Final Design Pic2.png>)
 
-![alt text](<WhatsApp Image 2024-06-30 at 11.25.06_928a3137.jpg>)
+![alt text](<Final Design Pic1.png>)
 
 
 The project was largely successful, achieving its primary goal of accurately tracking and displaying the average hand distance using a sensor. Here are my detailed thoughts:
