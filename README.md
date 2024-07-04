@@ -54,21 +54,18 @@ Using the VS Code extension "Pico-W-Go" or you can right-click on the folder and
 **Computer Setup:**
 
 1. **Install Visual Studio Code:**
-   - Download and install VS Code from the [official website](https://code.visualstudio.com/).
+   - Download and install VS Code from the [official website](https://code.visualstudio.com
 
 2. **Install Python:**
    - Download and install Python from the [official website](https://www.python.org/).
    - Ensure Python is added to your PATH during installation.
 
-3. **Install Node.js:**
-   - Download and install Node.js from the [official website](https://nodejs.org/).
-
-4. **Flash MicroPython Firmware onto the Raspberry Pi Pico W:**
+3. **Flash MicroPython Firmware onto the Raspberry Pi Pico W:**
    - Download the MicroPython firmware (.uf2 file) from the [official Raspberry Pi website](https://micropython.org/download/RPI_PICO_W/).
    - Connect the Pico W to your computer while holding the BOOTSEL button.
    - Drag and drop the downloaded .uf2 file into the RPI-RP2 drive that appears.
 
-5. **Set Up VS Code for Pico W Development:**
+4. **Set Up VS Code for Pico W Development:**
    - Open VS Code and go to the Extensions view by clicking the square icon in the sidebar or pressing `Ctrl+Shift+X`.
    - Search for and install the following extensions:
      - `"ms-python.python"`: Microsoft’s Python extension for VS Code.
@@ -77,17 +74,17 @@ Using the VS Code extension "Pico-W-Go" or you can right-click on the folder and
      - `"paulober.pico-w-go"`: Extension specifically for Raspberry Pi Pico W development.
    - Reload VS Code to activate the extensions.
 
-6. **Configure Pico-W-Go:**
+5. **Configure Pico-W-Go:**
    - Open the command palette in VS Code (`Ctrl+Shift+P`).
    - Type and select `Pico-W-Go: Configure project`.
    - Follow the prompts to set up the project directory and configure settings.
 
-7. **Connect the Raspberry Pi Pico W:**
+6. **Connect the Raspberry Pi Pico W:**
    - Connect your Raspberry Pi Pico W to your computer via USB.
    - Open the command palette (`Ctrl+Shift+P`), type and select `Pico-W-Go: New project`.
    - Choose a directory for your project.
 
-8. **Writing and Uploading Code:**
+7. **Writing and Uploading Code:**
    - Create a new Python file in your project directory (e.g., `main.py`).
    - Write your MicroPython code.
    - To upload the code to your Pico W, right-click the file and select `Run on Pico-W`.
