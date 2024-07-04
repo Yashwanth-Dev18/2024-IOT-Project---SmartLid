@@ -321,7 +321,7 @@ Real-time Updates: The real-time nature of the updates ensured that the informat
 **Areas for Improvement:**
 
 1. Sensor Calibration:
-The sensor calibration process could be enhanced to ensure even greater accuracy, particularly in varying lighting conditions or environments. This is because every day once or twice it would detect movement even though there's isn't anything due to varying light and harsh wind consitions near the window.
+The sensor calibration process could be enhanced to ensure even greater accuracy, particularly in varying lighting conditions or environments. This is due to changing light and strong winds near the window, causing it to detect movement once or twice daily even when there's isn't any movement that could trigger the Ultrasonic sensor.
 
 
 
