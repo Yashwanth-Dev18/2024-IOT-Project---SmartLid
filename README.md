@@ -299,9 +299,9 @@ This chart shows the hourly aggregated information on the access. This is an ext
 Here are the final results...
 ![alt text](<Project Final Results.png>)
 
-![alt text](<Final Design Pic2.png>)
+![alt text](<Final Design Pic2.jpg>)
 
-![alt text](<Final Design Pic1.png>)
+![alt text](<Final Design Pic1.jpg>)
 
 
 The project was largely successful, achieving its primary goal of accurately tracking and displaying the average hand distance using a sensor. Here are my detailed thoughts:
