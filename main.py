@@ -11,7 +11,7 @@ pwm = machine.PWM(servo)
 pwm.freq(50)
 
 # UBIDOT SETUP
-TOKEN = "BBUS-8yF1VY42uoq9fySuVCSmgQQ7ctdo4o"
+TOKEN = "The_Ubidot_Token_generated_to_your_device"
 DEVICE_LABEL = "picolid"
 count_VAR = "count"
 avg_VAR = "avgdist"
